@@ -20,3 +20,4 @@ Inspired by [java-code-styles][square_java_code_style_repo] in Square, Inc.
 License
 -------
 [![Public domain](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+[square_java_code_style_repo]: https://github.com/square/java-code-styles
